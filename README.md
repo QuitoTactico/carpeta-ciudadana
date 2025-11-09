@@ -1143,9 +1143,7 @@ Este es un proyecto académico de diseño e implementación arquitectónica.
 - [Architecture Decision Records](./docs/ADR/)
 - [Diagramas C4](./docs/c4_diagrams.md)
 
-## Diagrama de Despliegue
-
-
+## Estructura del Proyecto
 
 ```
 carpeta_ciudadana/
